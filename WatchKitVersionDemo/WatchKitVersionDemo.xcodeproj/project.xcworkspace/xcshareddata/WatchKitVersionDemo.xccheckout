@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>D6F14533-D3D4-499E-A71F-332FDFC353D5</string>
+	<key>IDESourceControlProjectName</key>
+	<string>WatchKitVersionDemo</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>286D7665B44701B27772249D78F3B1539A4B8284</key>
+		<string>github.com:Inferis/WatchVersionThingy.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>WatchKitVersionDemo/WatchKitVersionDemo.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>286D7665B44701B27772249D78F3B1539A4B8284</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>github.com:Inferis/WatchVersionThingy.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>286D7665B44701B27772249D78F3B1539A4B8284</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>286D7665B44701B27772249D78F3B1539A4B8284</string>
+			<key>IDESourceControlWCCName</key>
+			<string>WatchVersionThingy</string>
+		</dict>
+	</array>
+</dict>
+</plist>

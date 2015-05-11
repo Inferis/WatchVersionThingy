@@ -1,2 +1,0 @@
-#define APP_VERSION 26
-#define APP_BUNDLE 26.22

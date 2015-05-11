@@ -78,9 +78,8 @@
 		E2521DCE1B006AFF006BFCB7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		E2521DD01B006AFF006BFCB7 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Interface.storyboard; sourceTree = "<group>"; };
 		E2521DD21B006AFF006BFCB7 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
-		E2521DDE1B006B27006BFCB7 /* Version.xcconfig */ = {isa = PBXFileReference; lastKnownFileType = text.xcconfig; path = Version.xcconfig; sourceTree = "<group>"; };
-		E25C756A1B00FF1400EFE2E4 /* Version.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Version.h; sourceTree = "<group>"; };
 		E25C756B1B01070100EFE2E4 /* Version.sh */ = {isa = PBXFileReference; lastKnownFileType = text.script.sh; path = Version.sh; sourceTree = "<group>"; };
+		E25C756C1B011D0700EFE2E4 /* Version.xcconfig */ = {isa = PBXFileReference; lastKnownFileType = text.xcconfig; path = Version.xcconfig; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -111,9 +110,8 @@
 		E2521D8C1B006AEB006BFCB7 = {
 			isa = PBXGroup;
 			children = (
+				E25C756C1B011D0700EFE2E4 /* Version.xcconfig */,
 				E25C756B1B01070100EFE2E4 /* Version.sh */,
-				E25C756A1B00FF1400EFE2E4 /* Version.h */,
-				E2521DDE1B006B27006BFCB7 /* Version.xcconfig */,
 				E2521D971B006AEB006BFCB7 /* WatchKitVersionDemo */,
 				E2521DAD1B006AEB006BFCB7 /* WatchKitVersionDemoTests */,
 				E2521DBF1B006AFF006BFCB7 /* WatchKitVersionDemo WatchKit Extension */,
@@ -439,7 +437,7 @@
 /* Begin XCBuildConfiguration section */
 		E2521DB21B006AEB006BFCB7 /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = E2521DDE1B006B27006BFCB7 /* Version.xcconfig */;
+			baseConfigurationReference = E25C756C1B011D0700EFE2E4 /* Version.xcconfig */;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
 				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
@@ -484,7 +482,7 @@
 		};
 		E2521DB31B006AEB006BFCB7 /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = E2521DDE1B006B27006BFCB7 /* Version.xcconfig */;
+			baseConfigurationReference = E25C756C1B011D0700EFE2E4 /* Version.xcconfig */;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
 				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
